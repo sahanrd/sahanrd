@@ -5,7 +5,8 @@
 
   <!-- ⌨️ CLEAN TYPING SUBTITLE -->
   <a href="https://sahanrd.github.io/portfolio/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&height=40&lines=Creative+Web+Developer+%26+3D+Web+Craftsman;Building+Interactive+Web+Apps+with+Three.js+%26+GSAP;Full-Stack+Web+(PHP+%2F+JS)+%26+IoT+Smart+Dashboards" alt="SubText" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&height=40&lines=Creative+Web+Developer+
+    %26+3D+Web+Craftsman;Building+Interactive+Web+Apps+with+Three.js+%26+GSAP;Full-Stack+Web+(PHP+%2F+JS)+%26+IoT+Smart+Dashboards" alt="SubText" />
   </a>
 
   <br/><br/>
